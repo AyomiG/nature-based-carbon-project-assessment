@@ -18,7 +18,7 @@ Project selection also considered additionality, conservative carbon quantificat
 
 ## 2. Portfolio Screening and Selection
 
-Four projects were selected across three countries and two principal restoration pathways: afforestation/reforestation (ARR), improved forest management (IFM), and assisted natural regeneration (ANR).
+Four projects were selected across three countries and three nbs pathways: afforestation/reforestation (ARR), improved forest management (IFM), and assisted natural regeneration (ANR).
 
 ![Nature-Based Carbon Portfolio Allocation](nbs_carbon_portfolio_allocation.png)
 
